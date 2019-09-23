@@ -15,7 +15,7 @@
   "dependencies": {
     "6to5": "^2.9.3",
     "LiveScript": "*",
-    "coffee-script": "1.6.x",
+    "coffee-script": "1.12.7",
     "express": "3.x",
     "forever-monitor": "^1.2.3",
     "genid": "0.1.x",
