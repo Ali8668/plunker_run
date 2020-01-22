@@ -17,7 +17,7 @@
     "LiveScript": "*",
     "coffee-script": "1.6.x",
     "express": "3.x",
-    "forever-monitor": "^1.2.3",
+    "forever-monitor": "^2.0.0",
     "genid": "0.1.x",
     "gzippo": "0.1.x",
     "jade": "*",
